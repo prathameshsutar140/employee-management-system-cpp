@@ -24,8 +24,10 @@ Leaves Taken  : 4
 Net Salary    : Rs. 34000
 -----------------------------------
 
-🚀 How to Run
+##🚀 How to Run
+
 Clone or download the repository:
+
 git clone <repository-url>
 
 Compile emp.cpp using a C++ compiler (such as GCC or Turbo C++):
