@@ -10,7 +10,14 @@ An **Object-Oriented C++** console application designed for employee details man
 - 💵 **Automated Net Salary Calculation**: Calculates deductions based on monthly leave limits (deducts Rs. 500 per excess leave beyond 2 allowed leaves).
 - 📁 **File Handling**: Automatically appends employee records to `emp_rec.txt` for persistent storage.
 - 🖥️ **Session Record Display**: Features formatted console output to display all records added during the active session.
+  
 
+---
+##🛠️ Language & Tools
+
+💻 Language: C++
+
+🧠 Concepts: Object-Oriented Programming (OOP), Single Inheritance, File I/O (fstream)
 ---
 
 ## 📊 Output Sample
