@@ -13,19 +13,6 @@ An **Object-Oriented C++** console application designed for employee details man
   
 
 ---
-
-
-## 📊 Output Sample
-
-```text
------------------------------------
-Employee ID   : 101
-Name          : Alex
-Basic Salary  : Rs. 35000
-Leaves Taken  : 4
-Net Salary    : Rs. 34000
------------------------------------
----
 ##🚀 How to Run
 
 Clone or download the repository:
@@ -44,3 +31,17 @@ Run the compiled executable:
 🧠 Concepts: Object-Oriented Programming (OOP), Single Inheritance, File I/O (fstream)
 ---
 
+
+
+
+## 📊 Output Sample
+
+```text
+-----------------------------------
+Employee ID   : 101
+Name          : Alex
+Basic Salary  : Rs. 35000
+Leaves Taken  : 4
+Net Salary    : Rs. 34000
+-----------------------------------
+---
