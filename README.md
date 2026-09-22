@@ -17,7 +17,7 @@ An **Object-Oriented C++** console application designed for employee details man
 
 Clone or download the repository:
 
-git clone <repository-url>
+git clone <[repository-url](https://github.com/prathameshsutar140/employee-management-system-cpp.git)>
 
 Compile emp.cpp using a C++ compiler (such as GCC or Turbo C++):
 g++ emp.cpp -o emp_system
