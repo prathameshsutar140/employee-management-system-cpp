@@ -13,12 +13,7 @@ An **Object-Oriented C++** console application designed for employee details man
   
 
 ---
-##🛠️ Language & Tools
 
-💻 Language: C++
-
-🧠 Concepts: Object-Oriented Programming (OOP), Single Inheritance, File I/O (fstream)
----
 
 ## 📊 Output Sample
 
@@ -30,7 +25,7 @@ Basic Salary  : Rs. 35000
 Leaves Taken  : 4
 Net Salary    : Rs. 34000
 -----------------------------------
-
+---
 ##🚀 How to Run
 
 Clone or download the repository:
@@ -47,3 +42,5 @@ Run the compiled executable:
 💻 Language: C++
 
 🧠 Concepts: Object-Oriented Programming (OOP), Single Inheritance, File I/O (fstream)
+---
+
