@@ -19,3 +19,18 @@ Basic Salary  : Rs. 35000
 Leaves Taken  : 4
 Net Salary    : Rs. 34000
 -----------------------------------
+
+How to Run
+Clone or download the repository.
+
+Compile emp.cpp using a C++ compiler (such as GCC or Turbo C++):
+
+g++ emp.cpp -o emp_system
+
+Bash
+./emp_system
+
+Language & Tools
+Language: C++
+
+Concepts: Object-Oriented Programming (OOP), Single Inheritance, File I/O (fstream)
